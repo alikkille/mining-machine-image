@@ -1,4 +1,4 @@
-# About:
+# About
 
 HashCoins is a cryptocurrency [mining equipment] manufacturer from Europe. Since 2015, the company provides a [cloud mining service] - HashFlare.io
 
@@ -14,21 +14,21 @@ HashCoins - европейский производитель [оборудов�
 
 Кроме того, панель можно использовать для работы с оборудованием других производителей на базе чипа Golden Nonce (HashFast, Peppermining, BitCrane)
 
-## Download:
+## Download
 
 [From Google Drive] 7.4GB
 
-## SSH:
+## SSH
 
 User: __pi__
 
 Password: __hashcoins__
 
-## Panel:
+## Panel
 
 Default password: __hashcoins__
 
-## Screenshots:
+## Screenshots
 
 ![Panel screenshot][screenshot 1]
 
